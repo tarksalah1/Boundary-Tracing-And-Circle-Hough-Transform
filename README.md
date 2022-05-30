@@ -1,2 +1,1 @@
-# Demo
-this is an educational repo
+# All Computer-Vision-Projects are here
