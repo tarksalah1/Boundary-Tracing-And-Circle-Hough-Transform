@@ -33,11 +33,11 @@ the previous border element Pn-1 is equal to P0, stop. Otherwise repeat step (2)
 #### Boundary tracing Results 
 
 
-![image](https://ibb.co/wS1q038)
+![Boundary tracing](https://user-images.githubusercontent.com/61361818/173068169-f3b57d95-e7df-425a-976d-3234ed15d645.PNG)
 
 
 #### Hough Transform Results 
 
 
-![image](https://ibb.co/pwcHJzt)
+![Hough transform](https://user-images.githubusercontent.com/61361818/173068285-7442b668-bdbd-4cba-8b0d-b8c1021923c1.PNG)
 
