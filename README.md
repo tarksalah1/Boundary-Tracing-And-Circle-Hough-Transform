@@ -6,7 +6,7 @@ The boundery tracing algorithm is used to extract the contours of the objects (r
 from an image. When applying this algorithm it is assumed that the image with regions is 
 either binary or those regions have been previously labeled. 
 
-#### Algorithm’s steps: 
+### Algorithm’s steps: 
 
 - Search the image from top left until a pixel of a new region is found; this pixel P0
 is the starting pixel of the region border. Define a variable dir which stores the 
@@ -27,3 +27,17 @@ element Pn. Update the dir value.
 the previous border element Pn-1 is equal to P0, stop. Otherwise repeat step (2). 
 
 - The detected border is represented by pixels P0 … Pn-2. 
+
+### Results :
+
+#### Boundary tracing Results 
+
+
+![image](https://ibb.co/wS1q038)
+
+
+#### Hough Transform Results 
+
+
+![image](https://ibb.co/pwcHJzt)
+
